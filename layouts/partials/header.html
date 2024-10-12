@@ -1,11 +1,14 @@
 <header>
-    <img src="{{ relURL "images/logo.svg" }}" alt="logo"> 
-    <h1>{{ .Site.Title}}</h1>
+    <div class="title-section">
+        <img src="{{ "images/logo.png" | relURL }}" alt="Logo" class="title-image" />
+        <h1>Nathaly Hitomi</h1>
+    </div>      
+
     <nav>
-        <ul>
-            <li><a href="{{ relURL "" }}">Home</a></li>
-            <li><a href="{{ relURL "about" }}">Sobre</a></li>
-            <li><a href="{{ relURL "tutorials" }}">Tutoriais</a></li>
+        <ul style="display: flex; gap: 20px;">
+          <li><a href="{{ relURL "" }}">Home</a></li>
+          <li><a href="{{ relURL "about" }}">About Me</a></li>
+          <li><a href="{{ relURL "works" }}">Works</a></li>
         </ul>
-    </nav>
+      </nav>
 </header>

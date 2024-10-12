@@ -1,7 +1,7 @@
-Este é o meu portfólio
+---
+title: "Home"
+date: 2024-10-12T15:46:10-03:00
+draft: false
+---
 
-Neste site, você encontrará
-
-- Minha biografia
-- Meus projetos
-- Meu currículo
+ahahah pff
