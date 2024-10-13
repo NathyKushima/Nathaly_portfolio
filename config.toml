@@ -1,4 +1,4 @@
-baseURL = 'https://pmr3304.e.usp.br/Nathy_personal_blog/'
+baseURL = https://nathykushima.github.io/Nathaly_portfolio/
 languageCode = 'en-us'
 title = 'Portfolio Nathaly'
 publishDir = "docs"
