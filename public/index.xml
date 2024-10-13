@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on test</title>
+    <title>Portfolio Nathaly</title>
     <link>http://localhost:1313/Nathy_personal_blog/</link>
-    <description>Recent content in Home on test</description>
+    <description>Recent content on Portfolio Nathaly</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Oct 2024 17:15:26 -0300</lastBuildDate>
@@ -16,32 +16,25 @@
       <description>&lt;p&gt;oi&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Works</title>
-      <link>http://localhost:1313/Nathy_personal_blog/works/</link>
-      <pubDate>Fri, 11 Oct 2024 17:15:26 -0300</pubDate>
-      <guid>http://localhost:1313/Nathy_personal_blog/works/</guid>
-      <description>&lt;p&gt;oi&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Flask</title>
-      <link>http://localhost:1313/Nathy_personal_blog/tutorials/flask/</link>
+      <link>http://localhost:1313/Nathy_personal_blog/about/flask/</link>
       <pubDate>Sat, 18 Sep 2021 23:28:40 -0300</pubDate>
-      <guid>http://localhost:1313/Nathy_personal_blog/tutorials/flask/</guid>
+      <guid>http://localhost:1313/Nathy_personal_blog/about/flask/</guid>
       <description>&lt;p&gt;Aprenda Flask em apenas quatro passos!&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Step one&lt;/li&gt;&#xA;&lt;li&gt;Step two&lt;/li&gt;&#xA;&lt;li&gt;????&lt;/li&gt;&#xA;&lt;li&gt;PROFIT!!!&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Django</title>
-      <link>http://localhost:1313/Nathy_personal_blog/tutorials/django/</link>
+      <link>http://localhost:1313/Nathy_personal_blog/about/django/</link>
       <pubDate>Sat, 18 Sep 2021 23:27:57 -0300</pubDate>
-      <guid>http://localhost:1313/Nathy_personal_blog/tutorials/django/</guid>
+      <guid>http://localhost:1313/Nathy_personal_blog/about/django/</guid>
       <description>&lt;p&gt;Aprenda Django em apenas quatro passos!&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Step one&lt;/li&gt;&#xA;&lt;li&gt;Step two&lt;/li&gt;&#xA;&lt;li&gt;????&lt;/li&gt;&#xA;&lt;li&gt;PROFIT!!!&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/Nathy_personal_blog/about/</link>
+      <link>http://localhost:1313/Nathy_personal_blog/works/</link>
       <pubDate>Sat, 18 Sep 2021 16:59:34 -0300</pubDate>
-      <guid>http://localhost:1313/Nathy_personal_blog/about/</guid>
-      <description>&lt;p&gt;Esta página contém informações sobre minha humilde pessoa.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/Nathy_personal_blog/works/</guid>
+      <description>&lt;p&gt;Esse ditado transmite a seguinte mensagem: duas pessoas não se prejudicam enquanto for conveniente para ambas.&lt;/p&gt;&#xA;&lt;p&gt;Não podemos ignorar o simbolismo do corvo, ave geralmente associada à morte e ao mau agouro. Portanto, os corvos do ditado podem ser vistos como pessoas de má índole, que estão unidas por interesse e só não se prejudicam porque essa aliança ainda é útil.&#xA;7. Auribus teneo lupum&lt;/p&gt;&#xA;&lt;p&gt;Tradução: Segurar um lobo pelas orelhas.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
