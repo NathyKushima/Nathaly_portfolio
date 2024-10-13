@@ -1,25 +1,34 @@
 {{ define "main" }}
 <body class="green-background">
-    <section class="hero-section">
-        <div class="profile-container">
-            <img src="{{ "images/profile_.jpg" | relURL }}" alt="Imagem da Home" class="profile-image" />
+    <section class="hero-section container py-5">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="profile-container">
+                    <img src="{{ "images/profile_.jpg" | relURL }}" alt="Imagem da Home" class="profile-image img-fluid" />
+                </div>
+            </div>
+            <div class="col-md-6 d-flex flex-column justify-content-center">
+                <div class="green-box">
+                    <ul class="list-unstyled text-white">
+                        <li><a href="http://lattes.cnpq.br/4230355009044287" target="_blank" class="text-white text-decoration-none">CV Lattes</a></li>
+                        <li><a href="https://www.linkedin.com/in/nathaly-kushima-88984823b" target="_blank" class="text-white text-decoration-none">LinkedIn</a></li>
+                        <li><a href="mailto:nhkushima@gmail.com" class="text-white text-decoration-none">Gmail</a></li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </section>
 
-    <section class="green-box">
-        <ul>
-            <li><a href="http://lattes.cnpq.br/4230355009044287" target="_blank">CV Lattes</a></li>
-            <li><a href="https://www.linkedin.com/in/nathaly-kushima-88984823b" target="_blank">LinkedIn</a></li>
-            <li><a href="mailto:nhkushima@gmail.com">Gmail</a></li>
-        </ul>
-    </section>
-
-    <section class="portfolio-section">
-        <h1 class="portfolio-title">PORTFOLIO</h1>
-        <h1 class="portfolio1-outline">RTFOLIO</h1>
-        <h1 class="portfolio2-outline">RTFOLIO</h1>
-        <h1 class="portfolio3-outline">RTFOLIO</h1>
-        <h1 class="portfolio4-outline">RTFOLIO</h1>
+    <section class="portfolio-section container py-5">
+        <div class="row">
+            <div class="col text-center">
+                <h1 class="portfolio-title display-1 text-white">PORTFOLIO</h1>
+                <h1 class="portfolio1-outline display-4 text-outline">RTFOLIO</h1>
+                <h1 class="portfolio2-outline display-4 text-outline">RTFOLIO</h1>
+                <h1 class="portfolio3-outline display-4 text-outline">RTFOLIO</h1>
+                <h1 class="portfolio4-outline display-4 text-outline">RTFOLIO</h1>
+            </div>
+        </div>
     </section>
 </body>
 {{ end }}
