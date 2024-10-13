@@ -1,8 +1,17 @@
 {{ define "main" }}
-<h2>{{ .Title }}</h2>
-<ul>
-    {{ range .Pages }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-    {{ end }}
-</ul>
+<body class="green-background">
+    <h2>{{ .Title }}</h2>
+    <section class="list-section">
+        <ul class="list-container">
+            {{ range sort .Pages ".Params.weight" "asc" }}
+                <li class="list-item">
+                    <article>
+                        <img src="{{"images/sparkles_icon.png" | relURL}}" alt="Sparkles" class="icon" />    
+                        <a href="{{ .RelPermalink }}" class="list-link">{{ .Title }}</a>
+                    </article>
+                </li>
+            {{ end }}
+        </ul>
+    </section>
+</body>
 {{ end }}
