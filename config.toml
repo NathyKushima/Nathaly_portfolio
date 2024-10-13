@@ -1,3 +1,4 @@
 baseURL = 'https://pmr3304.e.usp.br/Nathy_personal_blog/'
 languageCode = 'en-us'
 title = 'Portfolio Nathaly'
+publishDir = "docs"
