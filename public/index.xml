@@ -6,35 +6,42 @@
     <description>Recent content on Portfolio Nathaly</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Oct 2024 17:15:26 -0300</lastBuildDate>
+    <lastBuildDate>Sat, 18 Sep 2021 23:28:40 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/Nathy_personal_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/Nathy_personal_blog/contact/</link>
-      <pubDate>Fri, 11 Oct 2024 17:15:26 -0300</pubDate>
-      <guid>http://localhost:1313/Nathy_personal_blog/contact/</guid>
-      <description>&lt;p&gt;oi&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Flask</title>
-      <link>http://localhost:1313/Nathy_personal_blog/about/flask/</link>
+      <title> August 2023 - Setember 2024: Scientific Initiation</title>
+      <link>http://localhost:1313/Nathy_personal_blog/works/ic/</link>
       <pubDate>Sat, 18 Sep 2021 23:28:40 -0300</pubDate>
-      <guid>http://localhost:1313/Nathy_personal_blog/about/flask/</guid>
-      <description>&lt;p&gt;Aprenda Flask em apenas quatro passos!&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Step one&lt;/li&gt;&#xA;&lt;li&gt;Step two&lt;/li&gt;&#xA;&lt;li&gt;????&lt;/li&gt;&#xA;&lt;li&gt;PROFIT!!!&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <guid>http://localhost:1313/Nathy_personal_blog/works/ic/</guid>
+      <description>&lt;h2 id=&#34;implementation-of-a-programmable-logic-controller-plc-using-petri-net-and-raspberry-pi&#34;&gt;Implementation of a Programmable Logic Controller (PLC) using Petri Net and Raspberry Pi&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Conducted research on the functioning of Petri Net, a modeling language for discrete distributed systems, in industrial labs at the Mechatronics Department of POLI.&lt;/li&gt;&#xA;&lt;li&gt;Studied and implemented Raspberry Pi as an information receiver and processor.&lt;/li&gt;&#xA;&lt;li&gt;Programmed in the PIPE application for modeling a generic Petri Net.&lt;/li&gt;&#xA;&lt;li&gt;Developed and implemented an interactive visual interface for controlling the logic controller after inserting a Petri Net.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Django</title>
-      <link>http://localhost:1313/Nathy_personal_blog/about/django/</link>
-      <pubDate>Sat, 18 Sep 2021 23:27:57 -0300</pubDate>
-      <guid>http://localhost:1313/Nathy_personal_blog/about/django/</guid>
-      <description>&lt;p&gt;Aprenda Django em apenas quatro passos!&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Step one&lt;/li&gt;&#xA;&lt;li&gt;Step two&lt;/li&gt;&#xA;&lt;li&gt;????&lt;/li&gt;&#xA;&lt;li&gt;PROFIT!!!&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <title> May 2022 - Present : Argo</title>
+      <link>http://localhost:1313/Nathy_personal_blog/works/argo/</link>
+      <pubDate>Sat, 18 Sep 2021 23:28:40 -0300</pubDate>
+      <guid>http://localhost:1313/Nathy_personal_blog/works/argo/</guid>
+      <description>&lt;h1 id=&#34;argo&#34;&gt;Argo&lt;/h1&gt;&#xA;&lt;h2 id=&#34;health-innovation&#34;&gt;Health Innovation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Director of Human Resources and Analyst for the QAI Project (Indoor Air Quality)&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;project-esterilieasy-qai---disinfection-equipment-with-ultraviolet-light-and-filters&#34;&gt;Project Esterili.Easy (QAI) - Disinfection equipment with ultraviolet light and filters&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Conducted stakeholder analysis, identifying key requirements and proposing applicable improvements to the project.&lt;/li&gt;&#xA;&lt;li&gt;Reassembled the Esterili.Easy prototype, overseeing tests in specialized laboratories.&lt;/li&gt;&#xA;&lt;li&gt;Performed data analysis from the tests, contributing to the evaluation of the prototype&amp;rsquo;s efficiency.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;project-caixa-corsi-qai---disinfection-equipment-with-fan-and-filters&#34;&gt;Project Caixa Corsi (QAI) - Disinfection equipment with fan and filters&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developed detailed prototypes of two boxes using CAD software.&lt;/li&gt;&#xA;&lt;li&gt;Assembled the boxes and conducted tests in the laboratory.&lt;/li&gt;&#xA;&lt;li&gt;Authored a paper on the research, highlighting the results and practical implications.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;human-resources-department&#34;&gt;Human Resources Department&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Conducted follow-up meetings with members.&lt;/li&gt;&#xA;&lt;li&gt;Coordinated the 2023 selection process, involving technical submissions and interviews.&lt;/li&gt;&#xA;&lt;li&gt;Led internal training for new members to familiarize them with the group&amp;rsquo;s operations.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/Nathy_personal_blog/works/</link>
-      <pubDate>Sat, 18 Sep 2021 16:59:34 -0300</pubDate>
-      <guid>http://localhost:1313/Nathy_personal_blog/works/</guid>
-      <description>&lt;p&gt;Esse ditado transmite a seguinte mensagem: duas pessoas não se prejudicam enquanto for conveniente para ambas.&lt;/p&gt;&#xA;&lt;p&gt;Não podemos ignorar o simbolismo do corvo, ave geralmente associada à morte e ao mau agouro. Portanto, os corvos do ditado podem ser vistos como pessoas de má índole, que estão unidas por interesse e só não se prejudicam porque essa aliança ainda é útil.&#xA;7. Auribus teneo lupum&lt;/p&gt;&#xA;&lt;p&gt;Tradução: Segurar um lobo pelas orelhas.&lt;/p&gt;</description>
+      <title>Octuber 2022 - Present: Thunderatz</title>
+      <link>http://localhost:1313/Nathy_personal_blog/works/thunderatz/</link>
+      <pubDate>Sat, 18 Sep 2021 23:28:40 -0300</pubDate>
+      <guid>http://localhost:1313/Nathy_personal_blog/works/thunderatz/</guid>
+      <description>&lt;h1 id=&#34;thunderatz&#34;&gt;ThundeRatz&lt;/h1&gt;&#xA;&lt;h2 id=&#34;robotics-team&#34;&gt;Robotics Team&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Project Co-Captain, Recruitment Process Leader, and Marketing Analyst&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;October 2022 – Present&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Led the 500g sumo robot team, writing competition reports and introducing innovations to the project.&lt;/li&gt;&#xA;&lt;li&gt;Refactored the behavior tree code for the sumo robots, creating improved strategies to enhance performance.&lt;/li&gt;&#xA;&lt;li&gt;Configured the sumo robots&amp;rsquo; microcontroller pins in STM32CubeMX, debugged sensors using STM32CubeMonitor, and soldered components.&lt;/li&gt;&#xA;&lt;li&gt;Refactored the vision code, essential for accurately processing the position of the ball and players in the VSSS (Very Small Size Soccer) category.&lt;/li&gt;&#xA;&lt;li&gt;Co-developed the recruitment process for new members, serving as both evaluator and mentor.&lt;/li&gt;&#xA;&lt;li&gt;Managed the team&amp;rsquo;s social media accounts and edited videos for later publication.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>May 2022 - Decemer 2022: Polisat</title>
+      <link>http://localhost:1313/Nathy_personal_blog/works/polisat/</link>
+      <pubDate>Sat, 18 Sep 2021 23:28:40 -0300</pubDate>
+      <guid>http://localhost:1313/Nathy_personal_blog/works/polisat/</guid>
+      <description>&lt;h1 id=&#34;polisat&#34;&gt;Polisat&lt;/h1&gt;&#xA;&lt;h2 id=&#34;cubesat-engineering-team&#34;&gt;CubeSat Engineering Team&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Onboard Computer Subsystem Analyst and Marketing Analyst&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Integration of various satellite sensors with a microcontroller using I2C and SPI protocols.&lt;/li&gt;&#xA;&lt;li&gt;Configuration of microcontrollers using STM32CubeMX and STM32CubeIDE.&lt;/li&gt;&#xA;&lt;li&gt;Design of the onboard computer&amp;rsquo;s state machine.&lt;/li&gt;&#xA;&lt;li&gt;Responsible for managing the team’s Instagram account, posting about the project and competitions.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/Nathy_personal_blog/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Nathy_personal_blog/about/</guid>
+      <description>&lt;h2 id=&#34;nathaly---engenharia-mecatrônica&#34;&gt;Nathaly - Engenharia Mecatrônica&lt;/h2&gt;&#xA;&lt;p&gt;I am Nathaly, currently in the sixth semester of Mechatronics Engineering at the University of São Paulo (USP), one of the most prestigious universities in Brazil. Since I started the course, I have been deeply engaged in subjects that integrate electronics, mechanics, and programming, preparing myself to tackle complex challenges in the field of automation and control.&lt;/p&gt;&#xA;&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Language&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Proficiency&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Portuguese&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Native&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;English&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Fluent&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;French&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Beginner&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Programming Languages:&lt;/strong&gt; Python, C++, Verilog&lt;br&gt;&#xA;&lt;strong&gt;Technologies:&lt;/strong&gt; VS Code, Git, GitHub, LaTeX, Linux, ROS, STM32CubeMX, SolidWorks, Fusion, Octave, Notion&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
